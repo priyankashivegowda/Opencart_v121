@@ -11,7 +11,8 @@
 			<!--class name="testCases.Tc_001_AccountRegistration"/>-->
 			<!--  class name="testCases.Tc_002_Login"/>-->
 			<!-- class name="testCases.Tc_003_LoginDDT"/>-->
-			<class name="testCases.Tc_004_Search"/>
+			<!--  class name="testCases.Tc_004_Search"/>-->
+			<class name="testCases.Tc_005AddCart"/>
 		</classes>
 	</test>
 </suite>

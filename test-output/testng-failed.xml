@@ -7,13 +7,13 @@
   <test thread-count="5" name="OpencartTests(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.Tc_004_Search">
+      <class name="testCases.Tc_005AddCart">
         <methods>
           <include name="tearDown"/>
-          <include name="test_search"/>
           <include name="setup"/>
+          <include name="test_addcart"/>
         </methods>
-      </class> <!-- testCases.Tc_004_Search -->
+      </class> <!-- testCases.Tc_005AddCart -->
     </classes>
   </test> <!-- OpencartTests(failed) -->
 </suite> <!-- Failed suite [opencartSuite] -->
