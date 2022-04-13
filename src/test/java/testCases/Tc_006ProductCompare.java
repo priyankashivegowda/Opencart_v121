@@ -41,7 +41,7 @@ import testBase.BaseClass;
 				logger.info("product comparing");
 				
 				String smessage=pc.success_message();
-						
+				//this is for only iMac as productsearch for other products search change subString number		
 				if(smessage.substring(0,56).equals("Success: You have added iMac to your product comparison!"))
 				{
 					logger.info("sucess message displayed");
