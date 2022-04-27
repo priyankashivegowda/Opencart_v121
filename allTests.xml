@@ -14,7 +14,13 @@
 			<!--  class name="testCases.Tc_004_Search"/>-->
 			<!--  class name="testCases.Tc_005AddCart"/>-->
 			<!--class name="testCases.Tc_006ProductCompare"/>-->
-			<class name="testCases.Tc_007WishList"/>
+			<!-- class name="testCases.Tc_007WishList"/>-->
+			<!--  class name="testCases.Tc_008ProductDisplayPage"/>-->
+			<!--  class name="testCases.Tc_009ForgotPassword"/>-->
+			<!--  class name="testCases.Tc_010ShoppingCart"/>-->
+			<!--  class name="testCases.Tc_otherApplication"/>-->
+			<!--  class name="testCases.Tc_011Checkout"/>-->
+			<class name="testCases.Tc_012MyAccount"/>
 		</classes>
 	</test>
 </suite>

@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="opencartSuite" duration-ms="41770" started-at="2022-04-12T23:08:00 EDT" finished-at="2022-04-12T23:08:42 EDT">
+  <suite name="opencartSuite" duration-ms="127399" started-at="2022-04-26T23:48:45 EDT" finished-at="2022-04-26T23:50:52 EDT">
     <groups>
     </groups>
-    <test name="OpencartTests" duration-ms="41770" started-at="2022-04-12T23:08:00 EDT" finished-at="2022-04-12T23:08:42 EDT">
-      <class name="testCases.Tc_007WishList">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_007WishList@68ceda24]" name="setup" is-config="true" duration-ms="11156" started-at="2022-04-12T23:08:01 EDT" finished-at="2022-04-12T23:08:12 EDT">
+    <test name="OpencartTests" duration-ms="127399" started-at="2022-04-26T23:48:45 EDT" finished-at="2022-04-26T23:50:52 EDT">
+      <class name="testCases.Tc_012MyAccount">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.Tc_012MyAccount@281e3708]" name="setup" is-config="true" duration-ms="5547" started-at="2022-04-26T23:48:45 EDT" finished-at="2022-04-26T23:48:51 EDT">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test_wishlist()[pri:0, instance:testCases.Tc_007WishList@68ceda24]" name="test_wishlist" duration-ms="28558" started-at="2022-04-12T23:08:12 EDT" finished-at="2022-04-12T23:08:41 EDT">
+        <test-method status="PASS" signature="test_myaccount()[pri:0, instance:testCases.Tc_012MyAccount@281e3708]" name="test_myaccount" duration-ms="121178" started-at="2022-04-26T23:48:51 EDT" finished-at="2022-04-26T23:50:52 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_wishlist -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.Tc_007WishList@68ceda24]" name="tearDown" is-config="true" duration-ms="1170" started-at="2022-04-12T23:08:41 EDT" finished-at="2022-04-12T23:08:42 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.Tc_007WishList -->
+        </test-method> <!-- test_myaccount -->
+      </class> <!-- testCases.Tc_012MyAccount -->
     </test> <!-- OpencartTests -->
   </suite> <!-- opencartSuite -->
 </testng-results>

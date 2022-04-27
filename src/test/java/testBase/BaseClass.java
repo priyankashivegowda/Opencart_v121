@@ -65,11 +65,11 @@ public class BaseClass {
 		
 	}
 	
-	@AfterClass(groups= {"master","regression","sanity"})
+	/*@AfterClass(groups= {"master","regression","sanity"})
 	public void tearDown()
 	{
 	driver.quit();
-	}
+	}*/
 	
 	
 	public String randomestring() {

@@ -7,12 +7,12 @@
   <test thread-count="5" name="OpencartTests(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.Tc_007WishList">
+      <class name="testCases.Tc_012MyAccount">
         <methods>
-          <include name="test_wishlist"/>
           <include name="setup"/>
+          <include name="test_myaccount"/>
         </methods>
-      </class> <!-- testCases.Tc_007WishList -->
+      </class> <!-- testCases.Tc_012MyAccount -->
     </classes>
   </test> <!-- OpencartTests(failed) -->
 </suite> <!-- Failed suite [opencartSuite] -->
